@@ -7,6 +7,11 @@
 # WorkBuddy 本地数据
 .workbuddy/
 
+# 生成产物（由脚本渲染/抽取得到，不入库）
+extracted/
+rendered/
+render.py
+
 # 系统文件
 Thumbs.db
 Desktop.ini
