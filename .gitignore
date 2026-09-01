@@ -12,6 +12,11 @@ extracted/
 rendered/
 render.py
 
+# LaTeX 源文件与构建脚本（只保留编译好的 PDF）
+*.tex
+build_outline.py
+extract.py
+
 # 系统文件
 Thumbs.db
 Desktop.ini
