@@ -1,0 +1,12 @@
+# LaTeX 编译中间文件
+*.aux
+*.log
+*.out
+*.toc
+
+# WorkBuddy 本地数据
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
